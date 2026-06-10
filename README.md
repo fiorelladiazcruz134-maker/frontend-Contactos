@@ -23,3 +23,8 @@ Un proyectito rápido hecho con React + Vite para gestionar contactos como un mi
 
 - **Admin**: `admin@test.com` / `password123`
 - **User Normal**: `user@test.com` / `password123`
+
+## Demo en Vivo
+
+Puedes probar la aplicación desplegada aquí:
+[https://dashing-palmier-f68d63.netlify.app/login](https://dashing-palmier-f68d63.netlify.app/login)
