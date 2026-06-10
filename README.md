@@ -21,5 +21,5 @@ Un proyectito rápido hecho con React + Vite para gestionar contactos como un mi
 
 ### Usuarios para probar:
 
-- **Admin**: `admin@correo.com` / `admin123`
-- **User Normal**: `user@correo.com` / `user123`
+- **Admin**: `admin@test.com` / `password123`
+- **User Normal**: `user@test.com` / `password123`
